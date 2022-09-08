@@ -1,6 +1,6 @@
 # Display Settings
 
-[![Display Settings](redd.png)](https://computersolve.com/display-settings/)
+[![Display Settings](redd.png)](https://icncomputer.com/display-settings/)
 
 Display settings provide options for improving the color output of your screen, click the “Advanced Display Settings” links then click Color Calibration. Please note, the Color calibration screen recommends knowing your built-in monitor's settings to help get the best results.
 
